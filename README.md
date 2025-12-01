@@ -5,7 +5,7 @@ Trying to get better at other coding.
 
 |        | Problem                                            | Solution                                                                       | Finished |
 |--------|----------------------------------------------------|--------------------------------------------------------------------------------|----------|
-| Day 01 | [Problem 01](https://adventofcode.com/2025/day/1)   | [day01.cpp](https://github.com/JaumeMurciano/Advent_of_Code_2025/blob/main/day01/day01.cpp)| No         |
+| Day 01 | [Problem 01](https://adventofcode.com/2025/day/1)   | [day01.cpp](https://github.com/JaumeMurciano/Advent_of_Code_2025/blob/main/day01/day01.cpp)| Yes         |
 | Day 02 | [Problem 02](https://adventofcode.com/2025/day/2)   | [day02.cpp](https://github.com/JaumeMurciano/Advent_of_Code_2025/blob/main/day02/day02.cpp)| No         |
 | Day 03 | [Problem 03](https://adventofcode.com/2025/day/3)   | [day03.cpp](https://github.com/JaumeMurciano/Advent_of_Code_2025/blob/main/day03/day03.cpp)| No         |
 | Day 04 | [Problem 04](https://adventofcode.com/2025/day/4)   | [day04.cpp](https://github.com/JaumeMurciano/Advent_of_Code_2025/blob/main/day04/day04.cpp)| No         |
