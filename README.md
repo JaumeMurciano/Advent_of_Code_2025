@@ -13,7 +13,7 @@ Trying to get better at other coding.
 | Day 06 | [Problem 06](https://adventofcode.com/2025/day/6)   | [day06.cpp](https://github.com/JaumeMurciano/Advent_of_Code_2025/blob/main/day06/day06.cpp)| Yes        |
 | Day 07 | [Problem 07](https://adventofcode.com/2025/day/7)   | [day07.cpp](https://github.com/JaumeMurciano/Advent_of_Code_2025/blob/main/day07/day07.cpp)| Yes        |
 | Day 08 | [Problem 08](https://adventofcode.com/2025/day/8)   | [day08.cpp](https://github.com/JaumeMurciano/Advent_of_Code_2025/blob/main/day08/day08.cpp)| Yes         |
-| Day 09 | [Problem 09](https://adventofcode.com/2025/day/9)   | [day09.cpp](https://github.com/JaumeMurciano/Advent_of_Code_2025/blob/main/day09/day09.cpp)| No         |
+| Day 09 | [Problem 09](https://adventofcode.com/2025/day/9)   | [day09.cpp](https://github.com/JaumeMurciano/Advent_of_Code_2025/blob/main/day09/day09.cpp)| Yes         |
 | Day 10 | [Problem 10](https://adventofcode.com/2025/day/10)   | [day10.cpp](https://github.com/JaumeMurciano/Advent_of_Code_2025/blob/main/day10/day10.cpp)| No         |
 | Day 11 | [Problem 11](https://adventofcode.com/2025/day/11)   | [day11.cpp](https://github.com/JaumeMurciano/Advent_of_Code_2025/blob/main/day11/day11.cpp)| No         |
 | Day 12 | [Problem 12](https://adventofcode.com/2025/day/12)   | [day12.cpp](https://github.com/JaumeMurciano/Advent_of_Code_2025/blob/main/day12/day12.cpp)| No         |
